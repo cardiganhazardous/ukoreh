@@ -1,0 +1,14 @@
+{
+  "name": "ukoreh",
+  "description": "Deploy ukoreh on Heroku.",
+  "keywords": [],
+  "env": {
+    "EM": {
+      "value": "",
+      "description": ""
+    }
+  },
+  "website": "",
+  "repository": "",
+  "stack": "container"
+}
